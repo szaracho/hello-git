@@ -1,2 +1,2 @@
 ## Hello Git
-##Prueba de mandar a pryecto
+## Prueba de mandar a pryecto
